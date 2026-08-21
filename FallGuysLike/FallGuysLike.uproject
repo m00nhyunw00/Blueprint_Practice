@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{C86C5C8B-49D2-55E9-F8B4-A5AF27AD810B}",
+	"EngineAssociation": "5.7",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,18 @@
 		},
 		{
 			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "InstancedActors",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGInstancedActorsInterop",
 			"Enabled": true
 		}
 	]
